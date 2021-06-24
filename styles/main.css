@@ -10,6 +10,7 @@ body {
 	border-color: #931420;
 	background-color: #fffded;
 }
+
 a:focus, a:hover {
 	font-style: italic;
 }
@@ -45,8 +46,6 @@ header h3 {
 }
 main {
 	clear: left;
-
-
 }
 /* the styles for the section. */
 section {
